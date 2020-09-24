@@ -10,7 +10,7 @@ The datasets used for training the model can be found in the *Data* folder.
 
 Different GCN variants can be trained using *GCN_EventPredictor_(Training).ipynb* and *GCN_TimePredictor_(Training).ipynb*, by changing the parameter cell of the corresponding *.ipynb* file. 
 
-* Choose one among the two datasets by commenting out the lines corresponding to the other two datasets
+* Choose one among the two datasets by commenting out the lines corresponding to the other dataset
 
 * Different variants can be trained by choosing the following combination of parameters:
 
