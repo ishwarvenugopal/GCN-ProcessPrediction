@@ -7,7 +7,7 @@ The following changes were made to the original code:
 if __name__ == "__main__" was inserted with all runs (k=2,4,6 for Helpdesk dataset and k=2,4,6,16,30 for BPI’12(W) dataset with each 25 epochs)
 
 
-2) In ***preparation.py*** 
+2 ) In ***preparation.py*** 
 
 In def train_valid_test_index(cls),  the split ratio was changed from 80:20 to 2/3 1/3 by changing the values for the parameters ‘a’ and ‘b’ as a =0.528 and b= 0.062304 and using the following lines of code:
 
