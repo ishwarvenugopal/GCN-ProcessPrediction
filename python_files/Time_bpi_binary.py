@@ -134,7 +134,7 @@ weighted_adjacency = False
 binary_adjacency = True
 laplacian_matrix = False
 variant = 'binary' # Choose from ['weighted','binary','laplacianOnWeighted','laplacianOnBinary']
-num_runs = 4
+num_runs = 5
 
 """# Data Pre-processing"""
 
