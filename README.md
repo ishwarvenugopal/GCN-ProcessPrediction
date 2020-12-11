@@ -1,6 +1,6 @@
-## Quartile-Based Prediction of Event Types and Event Time in Business Processes using Deep Learning 
+## Predicting Event Types and Event Times inbusiness-processes using Deep Learning
 
-This repository contains the source code and the associated files for the paper titled 'Quartile-Based Prediction of Event Types and Event Time in Business Processes using Deep Learning'
+This repository contains the source code and the associated files for the paper titled 'Predicting Event Types and Event Times inbusiness-processes using Deep Learning'
 
 In this work, five different model variants were developed for the task of predicting the nature and timestamp of the next activity in a business process. This included four different variants of a model having a Graph Convolutional Network (GCN) layer and a Multi-layer Perceptron (MLP) model.
 
