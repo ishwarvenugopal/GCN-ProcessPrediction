@@ -1,6 +1,0 @@
-env
-*.pt
-*.zip
-README.ipynb
-README.txt
-.ipynb_checkpoints

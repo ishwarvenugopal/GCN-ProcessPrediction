@@ -1,3 +1,18 @@
+Evaluate_Models/README.ipynb
+Evaluate_Models/Event_Quartiles/*.csv
+Evaluate_Models/Time_Quartiles/*.csv
+
+python_files/env
+python_files/*.pt
+python_files/*.zip
+python_files/README.ipynb
+python_files/README.txt
+
+python_files/Results/bpi/*.txt
+python_files/Results/bpi/*.pt
+python_files/Results/helpdesk/*.txt
+python_files/Results/helpdesk/*.pt
+
 .git
 .ipynb_checkpoints
 

@@ -8,12 +8,8 @@ So basically there are scripts for
 
 So the name of each of the .py files follow this pattern:
 
-(Task)_(dataset)_(variant).py
+(Task)\_(dataset)\_(variant).py
 
 
 Each .py script will have 5 runs each coded in them. The model parameters and the accuracy/loss values get saved in the Results folder for each of the runs (i.e 2 files per run). 
 
-
-```python
-
-```

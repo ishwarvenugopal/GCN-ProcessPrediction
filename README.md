@@ -24,6 +24,8 @@ Different GCN variants can be trained using *GCN_EventPredictor_(Training).ipynb
 * For training MLP variants, use the *MLP_EventPredictor_(Training).ipynb* and *MLP_TimePredictor_(Training).ipynb* files.
 * For each model variant, the training script will train 5 different runs each for three different initial learning rates for the optimizer.
 
+Note: Separate python files for each variant and dataset, with the optimal learning rates for that particular variant can be found in the 'python_files' folder. Alternatively, these .py files can be directly run to train the model variants. 
+
 ### Evaluation
 
 After training, the models can be evaluated at different quartiles based on the number of events and the case duration. The evaluation scripts are thus sorted into two folders accordingly.
